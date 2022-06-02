@@ -1,0 +1,30 @@
+/* Font Family */
+.family--Oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+/* Color */
+.color--white {
+    color: #EFECF4;
+}
+
+.color--black {
+    color: #100F0E;
+}
+
+.color--gray {
+    color: #7A7A7A;
+}
+
+/* Size */
+.size--xs {
+    font-size: 12px;
+}
+
+.size--sm {
+    font-size: 16px;
+}
+
+.size--md {
+    font-size: 20px;
+}

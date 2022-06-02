@@ -1,0 +1,17 @@
+.navigation_list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 30px;
+    cursor: pointer;
+}
+
+
+/* Media Queries */
+
+@media (max-width: 550px) {
+    .navigation_list {
+        display: none;
+    }
+}
